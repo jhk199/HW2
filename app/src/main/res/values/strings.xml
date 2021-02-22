@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Beer Finder</string>
+        <string name="textView_title">Beer Finder</string>
+        <string name="button_start">Start</string>
+        <string name="imageView_desc_main">Just a Nice Beer</string>
+    <string name="second_activity">Search</string>
+        <string name="textView_search">Search by name of beer</string>
+        <string name="textView_brewed">Brewed</string>
+        <string name="textView_to">to</string>
+        <string name="editText_hint">mm/yyyy</string>
+        <string name="switch_highpoint">High Point Beer?</string>
+        <string name="button_find_beer">Find Beer</string>
+    <string name="third_activity">Results</string>
+        <string name="textView_default">Sample TEXT</string>
+        <string name="imageView_beer">Nice Beer</string>
+        <string name="imageView_star">Nice Star</string>
+        <string name="toast_message1">Please enter a valid date</string>
+    <string name="fourth_activity">More Info</string>
+</resources>
