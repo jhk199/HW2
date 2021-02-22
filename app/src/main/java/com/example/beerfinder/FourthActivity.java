@@ -46,6 +46,7 @@ public class FourthActivity extends AppCompatActivity {
         for(int i = 3; i < 6; i++) {
             TextView textView = new TextView(this);
             textView.setText(info.get(i));
+            textView.setPadding(0, 10,0,10);
             linearLayout.addView(textView);
         }
         beer = findViewById(R.id.imageViewMore_beer);
